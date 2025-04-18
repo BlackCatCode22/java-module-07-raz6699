@@ -1,0 +1,36 @@
+Zoo Population Report
+=====================
+
+Summary by Species:
+🦝 Hyenas: 4 total (2 male, 2 female)
+🦁 Lions: 4 total (1 male, 3 female)
+🐯 Tigers: 4 total (2 male, 2 female)
+🐻 Bears: 4 total (2 male, 2 female)
+
+Total: 16 animals
+----------------------------
+
+🦝 Hyena Habitat (4 total; 2 male, 2 female):
+Hy01; Banzai; birth date: 2013-09-21; brown; Male; 150 pounds; from Friguia Park, Tunisia; arrived 2025-04-18
+Hy02; Kamari; birth date: 2021-03-21; black; Male; 120 pounds; from Friguia Park, Tunisia; arrived 2025-04-18
+Hy03; Nne; birth date: 2017-01-21; black and tan striped; Female; 105 pounds; from Friguia Park, Tunisia; arrived 2025-04-18
+Hy04; Prince Nevarah; birth date: 2021-03-21; tan; Female; 70 pounds; from Friguia Park, Tunisia; arrived 2025-04-18
+
+🦁 Lion Habitat (4 total; 1 male, 3 female):
+Li01; Cecil; birth date: 2021-03-21; tan and brown; Female; 275 pounds; from KopeLion, Tanzania; arrived 2025-04-18
+Li02; Kiara; birth date: 2013-12-21; dark tan; Female; 375 pounds; from KopeLion, Tanzania; arrived 2025-04-18
+Li03; King; birth date: 2003-09-21; golden; Male; 450 pounds; from Zanzibar, Tanzania; arrived 2025-04-18
+Li04; Simba; birth date: 2019-03-21; tan; Female; 300 pounds; from Zanzibar, Tanzania; arrived 2025-04-18
+
+🐯 Tiger Habitat (4 total; 2 male, 2 female):
+Ti01; Cuddles; birth date: 2007-09-21; gold and tan; Male; 300 pounds; from Bardia, Nepal; arrived 2025-04-18
+Ti02; Ryker; birth date: 2022-03-21; black stripes; Female; 285 pounds; from Bardia, Nepal; arrived 2025-04-18
+Ti03; Tigger; birth date: 2023-03-21; gold and tan stripes; Male; 270 pounds; from Dhaka, Bangladesh; arrived 2025-04-18
+Ti04; Tony; birth date: 2021-03-21; black stripes; Female; 400 pounds; from Dhaka, Bangladesh; arrived 2025-04-18
+
+🐻 Bear Habitat (4 total; 2 male, 2 female):
+Be01; Bungle; birth date: 2021-03-21; brown; Male; 405 pounds; from Alaska Zoo, Alaska; arrived 2025-04-18
+Be02; Rupert; birth date: 2021-09-21; black; Female; 355 pounds; from Woodland park Zoo, Washington ; arrived 2025-04-18
+Be03; Smokey; birth date: 2000-03-21; black; Female; 425 pounds; from Woodland park Zoo, Washington ; arrived 2025-04-18
+Be04; Yogi; birth date: 2018-03-21; brown; Male; 320 pounds; from Alaska Zoo, Alaska; arrived 2025-04-18
+
